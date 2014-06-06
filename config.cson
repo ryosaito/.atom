@@ -1,0 +1,11 @@
+'exception-reporting':
+  'userId': '663cae83-db9e-7fb3-bdae-6b5086d2cdd0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': 'f21675c474ad506dbdef6ae0c1c8f4c29b9fc872'
+'editor':
+  'fontSize': 16
+'core': {}
+'find-and-replace':
+  'openProjectFindResultsInRightPane': true
